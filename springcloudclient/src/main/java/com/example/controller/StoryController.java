@@ -16,7 +16,7 @@ public class StoryController {
 
     private int age ;
 
-    private String sex ;
+    private String sex = "女" ;
 
     public String getSex() {
         return sex;

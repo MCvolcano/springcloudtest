@@ -12,7 +12,7 @@ public class StoryController {
         System.out.println("测试用");
     }
 
-    public String name ;
+    public String name = "zhangsan" ;
 
     private int age;
 

@@ -14,7 +14,7 @@ public class StoryController {
 
     public String name = "zhangsan" ;
 
-    private int age;
+    private int age = 13;
 
     public int getAge() {
         return age;
